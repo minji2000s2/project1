@@ -11,3 +11,4 @@ cat <<EOF > /var/www/html/index.html
 <h3>사설 IP: ${private_ip}</h3>
 <h3>가용영역: ${az_name}</h3>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" width=100>
+EOF
